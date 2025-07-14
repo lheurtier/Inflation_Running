@@ -2,4 +2,6 @@
 ACTplanck_camb_output/* filter=lfs diff=lfs merge=lfs -text
 ACTplanck_runrun_camb_output/* filter=lfs diff=lfs merge=lfs -text
 ACTplanck_*/* filter=lfs diff=lfs merge=lfs -text
+ACTplanck_camb/* filter=lfs diff=lfs merge=lfs -text
+ACTplanck_runrun_camb/* filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
