@@ -6,4 +6,6 @@ ACTplanck_camb/* filter=lfs diff=lfs merge=lfs -text
 ACTplanck_runrun_camb/* filter=lfs diff=lfs merge=lfs -text
 data/ACTplanck_runrun_camb_output/* filter=lfs diff=lfs merge=lfs -text
 data/ACTplanck_camb_output/* filter=lfs diff=lfs merge=lfs -text
+data/ACTplanckeBOSS_SPT_camb_output/ACTplanckeBOSS_SPT_camb_output* filter=lfs diff=lfs merge=lfs -text
+data/ACTplanckeBOSS_SPT_runrun_camb_output/ACTplanckeBOSS_SPT_runrun_camb_output* filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
